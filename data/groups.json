@@ -1,510 +1,510 @@
 [
   {
-    "id": "crypto-defi-&-yield-farming-hub-telegram-1",
-    "title": "Liquidity Pools Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Liquidity Pools",
-    "memberCount": "1,630+ members",
-    "description": "Verified public Telegram community focused on liquidity pools discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/crypto-defi-&-yield-farming-hub-telegram-1",
+    "id": "reddit-defi",
+    "title": "r/defi Decentralized Finance",
+    "platform": "Reddit",
+    "category": "DeFi Research",
+    "memberCount": "180,000+ members",
+    "description": "The premier Reddit forum for DeFi protocol architecture, smart contract liquidity, and decentralized governance.",
+    "joinUrl": "https://www.reddit.com/r/defi/",
     "tags": [
-      "liquidity-pools",
-      "telegram",
-      "networking",
-      "verified"
+      "defi",
+      "yield",
+      "ethereum",
+      "web3"
     ],
     "verified": true,
     "featured": true
   },
   {
-    "id": "crypto-defi-&-yield-farming-hub-discord-2",
-    "title": "Staking Yields Global Discord Hub",
-    "platform": "Discord",
-    "category": "Staking Yields",
-    "memberCount": "2,060+ members",
-    "description": "Verified public Discord community focused on staking yields discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/crypto-defi-&-yield-farming-hub-discord-2",
+    "id": "reddit-deficryptos",
+    "title": "r/deficryptos Discussion",
+    "platform": "Reddit",
+    "category": "DeFi Research",
+    "memberCount": "145,000+ members",
+    "description": "Active community discussing decentralized finance protocols, yield farming strategies, and tokenomics.",
+    "joinUrl": "https://www.reddit.com/r/deficryptos/",
     "tags": [
-      "staking-yields",
-      "discord",
-      "networking",
-      "verified"
+      "deficryptos",
+      "yield-farming",
+      "crypto",
+      "liquidity"
     ],
     "verified": true,
     "featured": true
   },
   {
-    "id": "crypto-defi-&-yield-farming-hub-whatsapp-3",
-    "title": "Decentralized Exchanges Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Decentralized Exchanges",
-    "memberCount": "2,490+ members",
-    "description": "Verified public WhatsApp community focused on decentralized exchanges discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/crypto-defi-&-yield-farming-hub-whatsapp-3",
+    "id": "reddit-ethereum",
+    "title": "r/ethereum Core & DeFi Hub",
+    "platform": "Reddit",
+    "category": "Ethereum DeFi",
+    "memberCount": "3,200,000+ members",
+    "description": "Global Ethereum community covering EVM development, Layer 2 rollups, EIP proposals, and decentralized finance.",
+    "joinUrl": "https://www.reddit.com/r/ethereum/",
     "tags": [
-      "decentralized-exchanges",
-      "whatsapp",
-      "networking",
-      "verified"
+      "ethereum",
+      "smart-contracts",
+      "layer2",
+      "defi"
     ],
     "verified": true,
     "featured": true
   },
   {
-    "id": "crypto-defi-&-yield-farming-hub-reddit-4",
-    "title": "Solana Defi Global Reddit Hub",
+    "id": "reddit-ethfinance",
+    "title": "r/ethfinance Staking & Economics",
     "platform": "Reddit",
-    "category": "Solana Defi",
-    "memberCount": "2,920+ members",
-    "description": "Verified public Reddit community focused on solana defi discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/crypto-defi-&-yield-farming-hub-reddit-4",
-    "tags": [
-      "solana-defi",
-      "reddit",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "crypto-defi-&-yield-farming-hub-telegram-5",
-    "title": "Liquidity Pools Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Liquidity Pools",
-    "memberCount": "3,350+ members",
-    "description": "Verified public Telegram community focused on liquidity pools discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/crypto-defi-&-yield-farming-hub-telegram-5",
-    "tags": [
-      "liquidity-pools",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "crypto-defi-&-yield-farming-hub-discord-6",
-    "title": "Staking Yields Global Discord Hub",
-    "platform": "Discord",
     "category": "Staking Yields",
-    "memberCount": "3,780+ members",
-    "description": "Verified public Discord community focused on staking yields discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/crypto-defi-&-yield-farming-hub-discord-6",
+    "memberCount": "130,000+ members",
+    "description": "Deep financial analysis of Ethereum, staking economics, staking yields, and monetary velocity.",
+    "joinUrl": "https://www.reddit.com/r/ethfinance/",
     "tags": [
-      "staking-yields",
-      "discord",
-      "networking",
-      "verified"
+      "ethfinance",
+      "staking",
+      "yields",
+      "investing"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "crypto-defi-&-yield-farming-hub-whatsapp-7",
-    "title": "Decentralized Exchanges Global WhatsApp Hub",
-    "platform": "WhatsApp",
+    "id": "reddit-cryptocurrency",
+    "title": "r/CryptoCurrency Market Board",
+    "platform": "Reddit",
+    "category": "Market Intelligence",
+    "memberCount": "8,900,000+ members",
+    "description": "The largest cryptocurrency forum on Reddit featuring breaking blockchain news, market discussions, and analysis.",
+    "joinUrl": "https://www.reddit.com/r/CryptoCurrency/",
+    "tags": [
+      "cryptocurrency",
+      "market-news",
+      "blockchain",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "reddit-yieldfarming",
+    "title": "r/yieldfarming LP & APY Optimization",
+    "platform": "Reddit",
+    "category": "Liquidity Pools",
+    "memberCount": "48,000+ members",
+    "description": "Community focused on APY optimization, automated market makers (AMMs), impermanent loss risk, and LP pools.",
+    "joinUrl": "https://www.reddit.com/r/yieldfarming/",
+    "tags": [
+      "yield-farming",
+      "liquidity-pools",
+      "amm",
+      "defi"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "reddit-uniswap",
+    "title": "r/UniSwap DEX Protocol Hub",
+    "platform": "Reddit",
     "category": "Decentralized Exchanges",
-    "memberCount": "4,210+ members",
-    "description": "Verified public WhatsApp community focused on decentralized exchanges discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/crypto-defi-&-yield-farming-hub-whatsapp-7",
+    "memberCount": "75,000+ members",
+    "description": "Official subreddit for Uniswap DEX users, liquidity providers, v3/v4 concentrated liquidity, and governance.",
+    "joinUrl": "https://www.reddit.com/r/UniSwap/",
     "tags": [
-      "decentralized-exchanges",
-      "whatsapp",
-      "networking",
-      "verified"
+      "uniswap",
+      "dex",
+      "amm",
+      "liquidity"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "crypto-defi-&-yield-farming-hub-reddit-8",
-    "title": "Solana Defi Global Reddit Hub",
+    "id": "reddit-solana",
+    "title": "r/solana High Throughput DeFi",
     "platform": "Reddit",
-    "category": "Solana Defi",
-    "memberCount": "4,640+ members",
-    "description": "Verified public Reddit community focused on solana defi discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/crypto-defi-&-yield-farming-hub-reddit-8",
+    "category": "Solana DeFi",
+    "memberCount": "380,000+ members",
+    "description": "High-performance blockchain discussions, Raydium/Orca DEX liquidity, Solana staking, and speed optimization.",
+    "joinUrl": "https://www.reddit.com/r/solana/",
     "tags": [
-      "solana-defi",
-      "reddit",
-      "networking",
-      "verified"
+      "solana",
+      "dex",
+      "fast-defi",
+      "staking"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "crypto-defi-&-yield-farming-hub-telegram-9",
-    "title": "Liquidity Pools Global Telegram Hub",
-    "platform": "Telegram",
+    "id": "reddit-aave",
+    "title": "r/Aave Lending & Money Markets",
+    "platform": "Reddit",
+    "category": "DeFi Lending",
+    "memberCount": "25,000+ members",
+    "description": "Community for Aave liquidity protocol, flash loans, collateral management, and interest rate algorithmic markets.",
+    "joinUrl": "https://www.reddit.com/r/Aave/",
+    "tags": [
+      "aave",
+      "lending",
+      "borrowing",
+      "flashloans"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "reddit-makerdao",
+    "title": "r/makerdao Stablecoin Vaults",
+    "platform": "Reddit",
+    "category": "Stablecoins",
+    "memberCount": "30,000+ members",
+    "description": "Decentralized stablecoin governance, DAI/USDS collateral vaults, and real-world asset (RWA) integration.",
+    "joinUrl": "https://www.reddit.com/r/makerdao/",
+    "tags": [
+      "makerdao",
+      "stablecoins",
+      "dai",
+      "rwa"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "reddit-curvefinance",
+    "title": "r/curvefinance StableSwap Liquidity",
+    "platform": "Reddit",
     "category": "Liquidity Pools",
-    "memberCount": "5,070+ members",
-    "description": "Verified public Telegram community focused on liquidity pools discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/crypto-defi-&-yield-farming-hub-telegram-9",
+    "memberCount": "18,000+ members",
+    "description": "Optimized stablecoin exchange, Curve wars, veCRV governance, and deep liquidity pool architecture.",
+    "joinUrl": "https://www.reddit.com/r/curvefinance/",
     "tags": [
-      "liquidity-pools",
-      "telegram",
-      "networking",
-      "verified"
+      "curve",
+      "stableswap",
+      "vecrv",
+      "liquidity"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "crypto-defi-&-yield-farming-hub-discord-10",
-    "title": "Staking Yields Global Discord Hub",
+    "id": "reddit-polygon",
+    "title": "r/0xPolygon AggLayer & Scaling",
+    "platform": "Reddit",
+    "category": "Layer 2 DeFi",
+    "memberCount": "240,000+ members",
+    "description": "Discussions on Polygon zkEVM, AggLayer unified liquidity, PoS staking yields, and L2 dApps.",
+    "joinUrl": "https://www.reddit.com/r/0xPolygon/",
+    "tags": [
+      "polygon",
+      "zkevm",
+      "scaling",
+      "layer2"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "reddit-arbitrum",
+    "title": "r/arbitrum Optimistic Yields",
+    "platform": "Reddit",
+    "category": "Layer 2 DeFi",
+    "memberCount": "45,000+ members",
+    "description": "Leading Ethereum optimistic rollup ecosystem, GMX perpetual trading, Camelot DEX yields, and L2 governance.",
+    "joinUrl": "https://www.reddit.com/r/arbitrum/",
+    "tags": [
+      "arbitrum",
+      "layer2",
+      "perpetuals",
+      "defi"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "reddit-optimism",
+    "title": "r/optimism Superchain Liquidity",
+    "platform": "Reddit",
+    "category": "Layer 2 DeFi",
+    "memberCount": "35,000+ members",
+    "description": "Superchain horizontal scaling, retro funding, Velodrome liquidity pools, and OP stack modularity.",
+    "joinUrl": "https://www.reddit.com/r/optimism/",
+    "tags": [
+      "optimism",
+      "superchain",
+      "layer2",
+      "governance"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "reddit-chainlink",
+    "title": "r/Chainlink Oracle Data Feeds",
+    "platform": "Reddit",
+    "category": "Infrastructure",
+    "memberCount": "95,000+ members",
+    "description": "Decentralized oracle networks, cross-chain interoperability protocol (CCIP), and verifiable randomness.",
+    "joinUrl": "https://www.reddit.com/r/Chainlink/",
+    "tags": [
+      "chainlink",
+      "oracles",
+      "ccip",
+      "smart-contracts"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "reddit-bitcoin",
+    "title": "r/Bitcoin Digital Gold Reserve",
+    "platform": "Reddit",
+    "category": "Hard Money",
+    "memberCount": "6,500,000+ members",
+    "description": "Global Bitcoin community exploring hard money, Proof-of-Work consensus, Lightning Network, and self-custody.",
+    "joinUrl": "https://www.reddit.com/r/Bitcoin/",
+    "tags": [
+      "bitcoin",
+      "sound-money",
+      "lightning",
+      "crypto"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "reddit-cryptomarkets",
+    "title": "r/CryptoMarkets Quant Analysis",
+    "platform": "Reddit",
+    "category": "Trading & Yields",
+    "memberCount": "1,600,000+ members",
+    "description": "Technical chart analysis, on-chain whale tracking, macroeconomic factors, and algorithmic crypto trading.",
+    "joinUrl": "https://www.reddit.com/r/CryptoMarkets/",
+    "tags": [
+      "cryptomarkets",
+      "trading",
+      "technical-analysis",
+      "whales"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "reddit-ethtrader",
+    "title": "r/ethtrader Staking & Yields",
+    "platform": "Reddit",
+    "category": "Trading & Yields",
+    "memberCount": "2,400,000+ members",
+    "description": "Active market sentiment, DeFi yield farming reports, staking comparisons, and community tokenomics.",
+    "joinUrl": "https://www.reddit.com/r/ethtrader/",
+    "tags": [
+      "ethtrader",
+      "trading",
+      "staking",
+      "ethereum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "discord-ethereum",
+    "title": "Ethereum Official Discord",
     "platform": "Discord",
-    "category": "Staking Yields",
-    "memberCount": "5,500+ members",
-    "description": "Verified public Discord community focused on staking yields discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/crypto-defi-&-yield-farming-hub-discord-10",
+    "category": "Ethereum DeFi",
+    "memberCount": "240,000+ members",
+    "description": "Official Discord for Ethereum community, research, all-core-dev meetings, and validator operations.",
+    "joinUrl": "https://discord.gg/ethereum",
     "tags": [
-      "staking-yields",
+      "ethereum",
       "discord",
-      "networking",
-      "verified"
+      "developers",
+      "validators"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "crypto-defi-&-yield-farming-hub-whatsapp-11",
-    "title": "Decentralized Exchanges Global WhatsApp Hub",
-    "platform": "WhatsApp",
+    "id": "discord-uniswap",
+    "title": "Uniswap Official Discord",
+    "platform": "Discord",
     "category": "Decentralized Exchanges",
-    "memberCount": "5,930+ members",
-    "description": "Verified public WhatsApp community focused on decentralized exchanges discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/crypto-defi-&-yield-farming-hub-whatsapp-11",
+    "memberCount": "110,000+ members",
+    "description": "Official real-time Discord for Uniswap DEX community, liquidity provider support, and governance proposals.",
+    "joinUrl": "https://discord.gg/uniswap",
     "tags": [
-      "decentralized-exchanges",
-      "whatsapp",
-      "networking",
-      "verified"
+      "uniswap",
+      "dex",
+      "discord",
+      "governance"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "crypto-defi-&-yield-farming-hub-reddit-12",
-    "title": "Solana Defi Global Reddit Hub",
-    "platform": "Reddit",
-    "category": "Solana Defi",
-    "memberCount": "6,360+ members",
-    "description": "Verified public Reddit community focused on solana defi discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/crypto-defi-&-yield-farming-hub-reddit-12",
+    "id": "discord-aave",
+    "title": "Aave Official Discord Server",
+    "platform": "Discord",
+    "category": "DeFi Lending",
+    "memberCount": "85,000+ members",
+    "description": "Community discussions on money markets, GHO stablecoin minting, risk parameters, and integrations.",
+    "joinUrl": "https://discord.gg/aave",
     "tags": [
-      "solana-defi",
-      "reddit",
-      "networking",
-      "verified"
+      "aave",
+      "lending",
+      "discord",
+      "gho"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "crypto-defi-&-yield-farming-hub-telegram-13",
-    "title": "Liquidity Pools Global Telegram Hub",
+    "id": "discord-solana",
+    "title": "Solana Developer Discord",
+    "platform": "Discord",
+    "category": "Solana DeFi",
+    "memberCount": "95,000+ members",
+    "description": "Official developer and DeFi ecosystem Discord for Solana engineers, validator nodes, and DeFi protocols.",
+    "joinUrl": "https://discord.gg/solana",
+    "tags": [
+      "solana",
+      "discord",
+      "developers",
+      "validators"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "discord-chainlink",
+    "title": "Chainlink Community Discord",
+    "platform": "Discord",
+    "category": "Infrastructure",
+    "memberCount": "75,000+ members",
+    "description": "Real-time developer server for Chainlink data feeds, CCIP cross-chain messaging, and Proof of Reserve.",
+    "joinUrl": "https://discord.gg/chainlink",
+    "tags": [
+      "chainlink",
+      "oracles",
+      "discord",
+      "web3"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "discord-polygon",
+    "title": "Polygon Tech Discord",
+    "platform": "Discord",
+    "category": "Layer 2 DeFi",
+    "memberCount": "120,000+ members",
+    "description": "Official Discord covering Polygon AggLayer, CDK appchains, DeFi integration, and developer grants.",
+    "joinUrl": "https://discord.gg/polygon",
+    "tags": [
+      "polygon",
+      "discord",
+      "layer2",
+      "scaling"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "telegram-curvefi",
+    "title": "Curve Finance Official Telegram",
     "platform": "Telegram",
     "category": "Liquidity Pools",
-    "memberCount": "6,790+ members",
-    "description": "Verified public Telegram community focused on liquidity pools discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/crypto-defi-&-yield-farming-hub-telegram-13",
+    "memberCount": "45,000+ members",
+    "description": "Official Curve Finance Telegram for real-time pool updates, CRV tokenomics, and crvUSD developments.",
+    "joinUrl": "https://t.me/curvefi",
     "tags": [
-      "liquidity-pools",
+      "curve",
       "telegram",
-      "networking",
-      "verified"
+      "stableswap",
+      "yields"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "crypto-defi-&-yield-farming-hub-discord-14",
-    "title": "Staking Yields Global Discord Hub",
-    "platform": "Discord",
-    "category": "Staking Yields",
-    "memberCount": "7,220+ members",
-    "description": "Verified public Discord community focused on staking yields discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/crypto-defi-&-yield-farming-hub-discord-14",
-    "tags": [
-      "staking-yields",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "crypto-defi-&-yield-farming-hub-whatsapp-15",
-    "title": "Decentralized Exchanges Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Decentralized Exchanges",
-    "memberCount": "7,650+ members",
-    "description": "Verified public WhatsApp community focused on decentralized exchanges discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/crypto-defi-&-yield-farming-hub-whatsapp-15",
-    "tags": [
-      "decentralized-exchanges",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "crypto-defi-&-yield-farming-hub-reddit-16",
-    "title": "Solana Defi Global Reddit Hub",
-    "platform": "Reddit",
-    "category": "Solana Defi",
-    "memberCount": "8,080+ members",
-    "description": "Verified public Reddit community focused on solana defi discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/crypto-defi-&-yield-farming-hub-reddit-16",
-    "tags": [
-      "solana-defi",
-      "reddit",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "crypto-defi-&-yield-farming-hub-telegram-17",
-    "title": "Liquidity Pools Global Telegram Hub",
+    "id": "telegram-yearnfinance",
+    "title": "Yearn Finance Official Telegram",
     "platform": "Telegram",
-    "category": "Liquidity Pools",
-    "memberCount": "8,510+ members",
-    "description": "Verified public Telegram community focused on liquidity pools discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/crypto-defi-&-yield-farming-hub-telegram-17",
+    "category": "Yield Farming",
+    "memberCount": "38,000+ members",
+    "description": "Vault strategy updates, yield aggregator optimizations, and automated treasury management discussions.",
+    "joinUrl": "https://t.me/yearnfinance",
     "tags": [
-      "liquidity-pools",
+      "yearn",
       "telegram",
-      "networking",
-      "verified"
+      "vaults",
+      "yield-aggregator"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "crypto-defi-&-yield-farming-hub-discord-18",
-    "title": "Staking Yields Global Discord Hub",
-    "platform": "Discord",
-    "category": "Staking Yields",
-    "memberCount": "8,940+ members",
-    "description": "Verified public Discord community focused on staking yields discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/crypto-defi-&-yield-farming-hub-discord-18",
-    "tags": [
-      "staking-yields",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "crypto-defi-&-yield-farming-hub-whatsapp-19",
-    "title": "Decentralized Exchanges Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Decentralized Exchanges",
-    "memberCount": "9,370+ members",
-    "description": "Verified public WhatsApp community focused on decentralized exchanges discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/crypto-defi-&-yield-farming-hub-whatsapp-19",
-    "tags": [
-      "decentralized-exchanges",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "crypto-defi-&-yield-farming-hub-reddit-20",
-    "title": "Solana Defi Global Reddit Hub",
-    "platform": "Reddit",
-    "category": "Solana Defi",
-    "memberCount": "9,800+ members",
-    "description": "Verified public Reddit community focused on solana defi discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/crypto-defi-&-yield-farming-hub-reddit-20",
-    "tags": [
-      "solana-defi",
-      "reddit",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "crypto-defi-&-yield-farming-hub-telegram-21",
-    "title": "Liquidity Pools Global Telegram Hub",
+    "id": "telegram-defipulse",
+    "title": "DeFi Pulse Community Channel",
     "platform": "Telegram",
-    "category": "Liquidity Pools",
-    "memberCount": "10,230+ members",
-    "description": "Verified public Telegram community focused on liquidity pools discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/crypto-defi-&-yield-farming-hub-telegram-21",
+    "category": "DeFi Research",
+    "memberCount": "32,000+ members",
+    "description": "Real-time TVL rankings, protocol audit alerts, exploit warnings, and yield landscape overviews.",
+    "joinUrl": "https://t.me/defipulse",
     "tags": [
-      "liquidity-pools",
+      "defipulse",
       "telegram",
-      "networking",
-      "verified"
+      "tvl",
+      "analytics"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "crypto-defi-&-yield-farming-hub-discord-22",
-    "title": "Staking Yields Global Discord Hub",
-    "platform": "Discord",
-    "category": "Staking Yields",
-    "memberCount": "10,660+ members",
-    "description": "Verified public Discord community focused on staking yields discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/crypto-defi-&-yield-farming-hub-discord-22",
-    "tags": [
-      "staking-yields",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "crypto-defi-&-yield-farming-hub-whatsapp-23",
-    "title": "Decentralized Exchanges Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Decentralized Exchanges",
-    "memberCount": "11,090+ members",
-    "description": "Verified public WhatsApp community focused on decentralized exchanges discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/crypto-defi-&-yield-farming-hub-whatsapp-23",
-    "tags": [
-      "decentralized-exchanges",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "crypto-defi-&-yield-farming-hub-reddit-24",
-    "title": "Solana Defi Global Reddit Hub",
-    "platform": "Reddit",
-    "category": "Solana Defi",
-    "memberCount": "11,520+ members",
-    "description": "Verified public Reddit community focused on solana defi discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/crypto-defi-&-yield-farming-hub-reddit-24",
-    "tags": [
-      "solana-defi",
-      "reddit",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "crypto-defi-&-yield-farming-hub-telegram-25",
-    "title": "Liquidity Pools Global Telegram Hub",
+    "id": "telegram-cryptonews",
+    "title": "Crypto News & Alpha Radar",
     "platform": "Telegram",
-    "category": "Liquidity Pools",
-    "memberCount": "11,950+ members",
-    "description": "Verified public Telegram community focused on liquidity pools discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/crypto-defi-&-yield-farming-hub-telegram-25",
+    "category": "Market Intelligence",
+    "memberCount": "185,000+ members",
+    "description": "High-speed curated breaking crypto announcements, token unlock schedules, and regulatory news.",
+    "joinUrl": "https://t.me/cryptonews",
     "tags": [
-      "liquidity-pools",
+      "cryptonews",
       "telegram",
-      "networking",
-      "verified"
+      "breaking-news",
+      "market-feed"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "crypto-defi-&-yield-farming-hub-discord-26",
-    "title": "Staking Yields Global Discord Hub",
-    "platform": "Discord",
-    "category": "Staking Yields",
-    "memberCount": "12,380+ members",
-    "description": "Verified public Discord community focused on staking yields discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/crypto-defi-&-yield-farming-hub-discord-26",
-    "tags": [
-      "staking-yields",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "crypto-defi-&-yield-farming-hub-whatsapp-27",
-    "title": "Decentralized Exchanges Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Decentralized Exchanges",
-    "memberCount": "12,810+ members",
-    "description": "Verified public WhatsApp community focused on decentralized exchanges discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/crypto-defi-&-yield-farming-hub-whatsapp-27",
-    "tags": [
-      "decentralized-exchanges",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "crypto-defi-&-yield-farming-hub-reddit-28",
-    "title": "Solana Defi Global Reddit Hub",
-    "platform": "Reddit",
-    "category": "Solana Defi",
-    "memberCount": "13,240+ members",
-    "description": "Verified public Reddit community focused on solana defi discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/crypto-defi-&-yield-farming-hub-reddit-28",
-    "tags": [
-      "solana-defi",
-      "reddit",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "crypto-defi-&-yield-farming-hub-telegram-29",
-    "title": "Liquidity Pools Global Telegram Hub",
+    "id": "telegram-coindesk",
+    "title": "CoinDesk Market Wire",
     "platform": "Telegram",
-    "category": "Liquidity Pools",
-    "memberCount": "13,670+ members",
-    "description": "Verified public Telegram community focused on liquidity pools discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/crypto-defi-&-yield-farming-hub-telegram-29",
+    "category": "Market Intelligence",
+    "memberCount": "140,000+ members",
+    "description": "Live editorial market reporting, macroeconomic policy updates, and enterprise blockchain research.",
+    "joinUrl": "https://t.me/coindesk",
     "tags": [
-      "liquidity-pools",
+      "coindesk",
       "telegram",
-      "networking",
-      "verified"
+      "editorial",
+      "macro"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "crypto-defi-&-yield-farming-hub-discord-30",
-    "title": "Staking Yields Global Discord Hub",
-    "platform": "Discord",
+    "id": "reddit-cardano",
+    "title": "r/cardano Proof-of-Stake",
+    "platform": "Reddit",
     "category": "Staking Yields",
-    "memberCount": "14,100+ members",
-    "description": "Verified public Discord community focused on staking yields discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/crypto-defi-&-yield-farming-hub-discord-30",
+    "memberCount": "710,000+ members",
+    "description": "Peer-reviewed blockchain platform, Plutus smart contracts, liquid staking rewards, and eUTxO architecture.",
+    "joinUrl": "https://www.reddit.com/r/cardano/",
     "tags": [
-      "staking-yields",
-      "discord",
-      "networking",
-      "verified"
+      "cardano",
+      "pos",
+      "staking",
+      "smart-contracts"
     ],
     "verified": true,
     "featured": false

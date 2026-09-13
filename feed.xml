@@ -4,10 +4,17 @@
     <title>Crypto DeFi &amp; Yield Farming Hub</title>
     <link>https://crypto-defi-yield-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 06 Sep 2026 13:32:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 08:30:01 GMT</lastBuildDate>
     <atom:link href="https://crypto-defi-yield-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <item>
+        <item>
+      <title>📅 Today's Fresh Pick: r/Avax Avalanche Consensus (Reddit)</title>
+      <link>https://www.reddit.com/r/Avax/</link>
+      <guid isPermaLink="false">https://crypto-defi-yield-hub.netlify.app/#crypto-defi-yield-hub-reddit-20260913-1-2026-09-13</guid>
+      <pubDate>Sun, 13 Sep 2026 08:30:01 GMT</pubDate>
+      <description>Newly verified community added to Crypto DeFi &amp; Yield Farming Hub: Subnet architecture, high-speed finality, and cross-subnet asset liquidity on Avalanche.</description>
+    </item>
+<item>
       <title>Crypto DeFi &amp; Yield Farming Hub Initial Release</title>
       <link>https://crypto-defi-yield-hub.netlify.app/</link>
       <pubDate>Sun, 06 Sep 2026 13:32:16 GMT</pubDate>

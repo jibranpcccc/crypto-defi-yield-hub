@@ -1,5 +1,23 @@
 [
   {
+    "id": "crypto-defi-yield-hub-discord-20260915-1",
+    "title": "Curve Finance Community Discord",
+    "platform": "Discord",
+    "category": "Stable AMM",
+    "memberCount": "48,000+ members",
+    "description": "Technical support, veCRV voting discussions, and algorithmic pool performance telemetry.",
+    "joinUrl": "https://discord.gg/curvefinance",
+    "tags": [
+      "curve",
+      "defi",
+      "discord"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-15"
+  },
+  {
     "id": "crypto-defi-yield-hub-reddit-20260914-1",
     "title": "r/LidoFinance Liquid Staking",
     "platform": "Reddit",
@@ -15,7 +33,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-14"
   },
   {

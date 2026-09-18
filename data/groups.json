@@ -1,5 +1,23 @@
 [
   {
+    "id": "crypto-defi-yield-hub-discord-20260918-1",
+    "title": "Lido Finance Governance Discord",
+    "platform": "Discord",
+    "category": "Liquid Staking",
+    "memberCount": "41,000+ members",
+    "description": "Node operator consortium and research hub for liquid staking derivatives on Ethereum.",
+    "joinUrl": "https://discord.gg/lido",
+    "tags": [
+      "lido",
+      "staking",
+      "discord"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-18"
+  },
+  {
     "id": "crypto-defi-yield-hub-discord-20260915-1",
     "title": "Curve Finance Community Discord",
     "platform": "Discord",
@@ -14,7 +32,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-15"
   },
   {

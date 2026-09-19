@@ -1,5 +1,23 @@
 [
   {
+    "id": "crypto-defi-yield-hub-discord-20260919-1",
+    "title": "Arbitrum Builders Discord",
+    "platform": "Discord",
+    "category": "L2 Rollups",
+    "memberCount": "180,000+ members",
+    "description": "Developer support for Nitro fraud proofs, Stylus multi-language smart contracts, and Orbit chains.",
+    "joinUrl": "https://discord.gg/arbitrum",
+    "tags": [
+      "arbitrum",
+      "layer2",
+      "discord"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-19"
+  },
+  {
     "id": "crypto-defi-yield-hub-discord-20260918-1",
     "title": "Lido Finance Governance Discord",
     "platform": "Discord",
@@ -14,7 +32,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-18"
   },
   {

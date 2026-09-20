@@ -1,5 +1,23 @@
 [
   {
+    "id": "crypto-defi-yield-hub-discord-20260920-1",
+    "title": "Optimism Collective Discord",
+    "platform": "Discord",
+    "category": "L2 Scaling",
+    "memberCount": "140,000+ members",
+    "description": "Governance delegates, OP chain deployers, and public goods funding channels.",
+    "joinUrl": "https://discord.gg/optimism",
+    "tags": [
+      "optimism",
+      "op",
+      "discord"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-20"
+  },
+  {
     "id": "crypto-defi-yield-hub-discord-20260919-1",
     "title": "Arbitrum Builders Discord",
     "platform": "Discord",
@@ -14,7 +32,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-19"
   },
   {

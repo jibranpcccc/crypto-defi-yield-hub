@@ -1,5 +1,23 @@
 [
   {
+    "id": "crypto-defi-yield-hub-telegram-20260923-1",
+    "title": "Ethereum Research Broadcast",
+    "platform": "Telegram",
+    "category": "Ethereum R&D",
+    "memberCount": "68,000+ members",
+    "description": "Technical summaries of proto-danksharding, MEV burn, and state statelessness research.",
+    "joinUrl": "https://t.me/eth",
+    "tags": [
+      "ethereum",
+      "research",
+      "telegram"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-23"
+  },
+  {
     "id": "crypto-defi-yield-hub-telegram-20260922-1",
     "title": "DeFi Farmers Broadcast",
     "platform": "Telegram",
@@ -14,7 +32,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-22"
   },
   {

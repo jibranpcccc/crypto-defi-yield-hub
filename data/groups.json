@@ -1,5 +1,23 @@
 [
   {
+    "id": "crypto-defi-yield-hub-telegram-20260925-1",
+    "title": "Aave Developers Chat",
+    "platform": "Telegram",
+    "category": "DeFi Development",
+    "memberCount": "29,000+ members",
+    "description": "Technical community discussing smart contract integration, liquidation bots, and oracle feeds.",
+    "joinUrl": "https://t.me/AaveDevelopers",
+    "tags": [
+      "aave",
+      "developers",
+      "telegram"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-25"
+  },
+  {
     "id": "crypto-defi-yield-hub-telegram-20260924-1",
     "title": "Uniswap Protocol Updates",
     "platform": "Telegram",
@@ -14,7 +32,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-24"
   },
   {

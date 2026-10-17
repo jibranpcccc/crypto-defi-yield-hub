@@ -4,10 +4,17 @@
     <title>Crypto DeFi &amp; Yield Farming Hub</title>
     <link>https://crypto-defi-yield-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Fri, 16 Oct 2026 06:00:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 06:00:36 GMT</lastBuildDate>
     <atom:link href="https://crypto-defi-yield-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                    <item>
+                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Rust Programming Language Discord (Discord)</title>
+      <link>https://discord.gg/rust-lang</link>
+      <guid isPermaLink="false">https://crypto-defi-yield-hub.netlify.app/#crypto-defi-yield-hub-discord-20261017-1-2026-10-17</guid>
+      <pubDate>Sat, 17 Oct 2026 06:00:36 GMT</pubDate>
+      <description>Newly verified community added to Crypto DeFi &amp; Yield Farming Hub: Official community Discord server for the Rust programming language with dedicated channels for crates, async, and compiler work.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/rust Systems Programming (Reddit)</title>
       <link>https://www.reddit.com/r/rust/</link>
       <guid isPermaLink="false">https://crypto-defi-yield-hub.netlify.app/#crypto-defi-yield-hub-reddit-20261016-1-2026-10-16</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://crypto-defi-yield-hub.netlify.app/#crypto-defi-yield-hub-discord-20260915-1-2026-09-15</guid>
       <pubDate>Tue, 15 Sep 2026 06:00:30 GMT</pubDate>
       <description>Newly verified community added to Crypto DeFi &amp; Yield Farming Hub: Technical support, veCRV voting discussions, and algorithmic pool performance telemetry.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/LidoFinance Liquid Staking (Reddit)</title>
-      <link>https://www.reddit.com/r/LidoFinance/</link>
-      <guid isPermaLink="false">https://crypto-defi-yield-hub.netlify.app/#crypto-defi-yield-hub-reddit-20260914-1-2026-09-14</guid>
-      <pubDate>Mon, 14 Sep 2026 10:44:36 GMT</pubDate>
-      <description>Newly verified community added to Crypto DeFi &amp; Yield Farming Hub: stETH validator decentralization, withdrawal queue telemetry, and liquid staking DeFi integrations.</description>
     </item>
   </channel>
 </rss>

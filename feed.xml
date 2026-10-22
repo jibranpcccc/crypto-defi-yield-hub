@@ -4,10 +4,17 @@
     <title>Crypto DeFi &amp; Yield Farming Hub</title>
     <link>https://crypto-defi-yield-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 21 Oct 2026 06:00:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 06:00:36 GMT</lastBuildDate>
     <atom:link href="https://crypto-defi-yield-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                        <item>
+                                                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: r/golang Backend Hub (Reddit)</title>
+      <link>https://www.reddit.com/r/golang/</link>
+      <guid isPermaLink="false">https://crypto-defi-yield-hub.netlify.app/#crypto-defi-yield-hub-reddit-20261022-1-2026-10-22</guid>
+      <pubDate>Thu, 22 Oct 2026 06:00:36 GMT</pubDate>
+      <description>Newly verified community added to Crypto DeFi &amp; Yield Farming Hub: Community for Go programmers covering microservices, concurrency patterns, standard library best practices, and tooling.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Web Developers Network (Telegram)</title>
       <link>https://t.me/webdev_hub</link>
       <guid isPermaLink="false">https://crypto-defi-yield-hub.netlify.app/#crypto-defi-yield-hub-telegram-20261021-1-2026-10-21</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://crypto-defi-yield-hub.netlify.app/#crypto-defi-yield-hub-telegram-20260922-1-2026-09-22</guid>
       <pubDate>Tue, 22 Sep 2026 06:00:31 GMT</pubDate>
       <description>Newly verified community added to Crypto DeFi &amp; Yield Farming Hub: Curated announcements on verified smart contract audits, APY changes, and protocol incentives.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Polygon Developers Discord (Discord)</title>
-      <link>https://discord.gg/0xpolygon</link>
-      <guid isPermaLink="false">https://crypto-defi-yield-hub.netlify.app/#crypto-defi-yield-hub-discord-20260921-1-2026-09-21</guid>
-      <pubDate>Mon, 21 Sep 2026 06:00:31 GMT</pubDate>
-      <description>Newly verified community added to Crypto DeFi &amp; Yield Farming Hub: Polygon CDK developers, aggregation layer (AggLayer) engineers, and dApp builders.</description>
     </item>
   </channel>
 </rss>

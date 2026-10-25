@@ -4,10 +4,17 @@
     <title>Crypto DeFi &amp; Yield Farming Hub</title>
     <link>https://crypto-defi-yield-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 24 Oct 2026 06:00:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 06:00:37 GMT</lastBuildDate>
     <atom:link href="https://crypto-defi-yield-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                    <item>
+                                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: TypeScript Community Discord (Discord)</title>
+      <link>https://discord.gg/typescript</link>
+      <guid isPermaLink="false">https://crypto-defi-yield-hub.netlify.app/#crypto-defi-yield-hub-discord-20261025-1-2026-10-25</guid>
+      <pubDate>Sun, 25 Oct 2026 06:00:37 GMT</pubDate>
+      <description>Newly verified community added to Crypto DeFi &amp; Yield Farming Hub: Active community for advanced TypeScript types, generics, compiler plugins, and framework integrations.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/typescript Architecture (Reddit)</title>
       <link>https://www.reddit.com/r/typescript/</link>
       <guid isPermaLink="false">https://crypto-defi-yield-hub.netlify.app/#crypto-defi-yield-hub-reddit-20261024-1-2026-10-24</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://crypto-defi-yield-hub.netlify.app/#crypto-defi-yield-hub-telegram-20260925-1-2026-09-25</guid>
       <pubDate>Fri, 25 Sep 2026 06:00:35 GMT</pubDate>
       <description>Newly verified community added to Crypto DeFi &amp; Yield Farming Hub: Technical community discussing smart contract integration, liquidation bots, and oracle feeds.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Uniswap Protocol Updates (Telegram)</title>
-      <link>https://t.me/uniswap</link>
-      <guid isPermaLink="false">https://crypto-defi-yield-hub.netlify.app/#crypto-defi-yield-hub-telegram-20260924-1-2026-09-24</guid>
-      <pubDate>Thu, 24 Sep 2026 06:00:34 GMT</pubDate>
-      <description>Newly verified community added to Crypto DeFi &amp; Yield Farming Hub: Automated notification channel for new pool deployments and protocol fee governance votes.</description>
     </item>
   </channel>
 </rss>

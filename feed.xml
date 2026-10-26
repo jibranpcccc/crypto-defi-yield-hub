@@ -4,10 +4,17 @@
     <title>Crypto DeFi &amp; Yield Farming Hub</title>
     <link>https://crypto-defi-yield-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 25 Oct 2026 06:00:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 06:44:33 GMT</lastBuildDate>
     <atom:link href="https://crypto-defi-yield-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                        <item>
+                                                                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: r/cpp High Performance Systems (Reddit)</title>
+      <link>https://www.reddit.com/r/cpp/</link>
+      <guid isPermaLink="false">https://crypto-defi-yield-hub.netlify.app/#crypto-defi-yield-hub-reddit-20261026-1-2026-10-26</guid>
+      <pubDate>Mon, 26 Oct 2026 06:44:33 GMT</pubDate>
+      <description>Newly verified community added to Crypto DeFi &amp; Yield Farming Hub: Discussions on modern C++ (C++17/20/23), memory models, template metaprogramming, and graphics pipelines.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: TypeScript Community Discord (Discord)</title>
       <link>https://discord.gg/typescript</link>
       <guid isPermaLink="false">https://crypto-defi-yield-hub.netlify.app/#crypto-defi-yield-hub-discord-20261025-1-2026-10-25</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://crypto-defi-yield-hub.netlify.app/#crypto-defi-yield-hub-forum-20260927-1-2026-09-27</guid>
       <pubDate>Sun, 27 Sep 2026 06:00:36 GMT</pubDate>
       <description>Newly verified community added to Crypto DeFi &amp; Yield Farming Hub: The premier academic forum for consensus layer research, zero-knowledge proofs, and cryptoeconomics.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Aave Developers Chat (Telegram)</title>
-      <link>https://t.me/AaveDevelopers</link>
-      <guid isPermaLink="false">https://crypto-defi-yield-hub.netlify.app/#crypto-defi-yield-hub-telegram-20260925-1-2026-09-25</guid>
-      <pubDate>Fri, 25 Sep 2026 06:00:35 GMT</pubDate>
-      <description>Newly verified community added to Crypto DeFi &amp; Yield Farming Hub: Technical community discussing smart contract integration, liquidation bots, and oracle feeds.</description>
     </item>
   </channel>
 </rss>

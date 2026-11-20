@@ -1,5 +1,24 @@
 [
   {
+    "id": "reddit-ethereum",
+    "title": "r/ethereum Core & DeFi Hub",
+    "platform": "Reddit",
+    "category": "Ethereum DeFi",
+    "memberCount": "3,200,000+ members",
+    "description": "Global Ethereum community covering EVM development, Layer 2 rollups, EIP proposals, and decentralized finance.",
+    "joinUrl": "https://www.reddit.com/r/ethereum/",
+    "tags": [
+      "ethereum",
+      "smart-contracts",
+      "layer2",
+      "defi"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-20"
+  },
+  {
     "id": "reddit-deficryptos",
     "title": "r/deficryptos Discussion",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-19"
   },
   {
@@ -917,24 +936,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "reddit-ethereum",
-    "title": "r/ethereum Core & DeFi Hub",
-    "platform": "Reddit",
-    "category": "Ethereum DeFi",
-    "memberCount": "3,200,000+ members",
-    "description": "Global Ethereum community covering EVM development, Layer 2 rollups, EIP proposals, and decentralized finance.",
-    "joinUrl": "https://www.reddit.com/r/ethereum/",
-    "tags": [
-      "ethereum",
-      "smart-contracts",
-      "layer2",
-      "defi"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "id": "reddit-ethfinance",

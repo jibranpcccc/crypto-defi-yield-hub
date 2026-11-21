@@ -4,10 +4,17 @@
     <title>Crypto DeFi &amp; Yield Farming Hub</title>
     <link>https://crypto-defi-yield-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Fri, 20 Nov 2026 06:00:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 07:52:59 GMT</lastBuildDate>
     <atom:link href="https://crypto-defi-yield-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: r/ethfinance Staking &amp; Economics (Reddit)</title>
+      <link>https://www.reddit.com/r/ethfinance/</link>
+      <guid isPermaLink="false">https://crypto-defi-yield-hub.netlify.app/#reddit-ethfinance-2026-11-21</guid>
+      <pubDate>Sat, 21 Nov 2026 07:52:59 GMT</pubDate>
+      <description>Newly verified community added to Crypto DeFi &amp; Yield Farming Hub: Deep financial analysis of Ethereum, staking economics, staking yields, and monetary velocity.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/ethereum Core &amp; DeFi Hub (Reddit)</title>
       <link>https://www.reddit.com/r/ethereum/</link>
       <guid isPermaLink="false">https://crypto-defi-yield-hub.netlify.app/#reddit-ethereum-2026-11-20</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://crypto-defi-yield-hub.netlify.app/#crypto-defi-yield-hub-discord-20261023-1-2026-10-23</guid>
       <pubDate>Fri, 23 Oct 2026 06:00:37 GMT</pubDate>
       <description>Newly verified community added to Crypto DeFi &amp; Yield Farming Hub: Real-time Go developers server offering technical support, library showcase, and distributed systems discussions.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/golang Backend Hub (Reddit)</title>
-      <link>https://www.reddit.com/r/golang/</link>
-      <guid isPermaLink="false">https://crypto-defi-yield-hub.netlify.app/#crypto-defi-yield-hub-reddit-20261022-1-2026-10-22</guid>
-      <pubDate>Thu, 22 Oct 2026 06:00:36 GMT</pubDate>
-      <description>Newly verified community added to Crypto DeFi &amp; Yield Farming Hub: Community for Go programmers covering microservices, concurrency patterns, standard library best practices, and tooling.</description>
     </item>
   </channel>
 </rss>

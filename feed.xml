@@ -4,10 +4,17 @@
     <title>Crypto DeFi &amp; Yield Farming Hub</title>
     <link>https://crypto-defi-yield-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 23 Nov 2026 06:42:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 07:29:32 GMT</lastBuildDate>
     <atom:link href="https://crypto-defi-yield-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: r/UniSwap DEX Protocol Hub (Reddit)</title>
+      <link>https://www.reddit.com/r/UniSwap/</link>
+      <guid isPermaLink="false">https://crypto-defi-yield-hub.netlify.app/#reddit-uniswap-2026-11-24</guid>
+      <pubDate>Tue, 24 Nov 2026 07:29:32 GMT</pubDate>
+      <description>Newly verified community added to Crypto DeFi &amp; Yield Farming Hub: Official subreddit for Uniswap DEX users, liquidity providers, v3/v4 concentrated liquidity, and governance.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/yieldfarming LP &amp; APY Optimization (Reddit)</title>
       <link>https://www.reddit.com/r/yieldfarming/</link>
       <guid isPermaLink="false">https://crypto-defi-yield-hub.netlify.app/#reddit-yieldfarming-2026-11-23</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://crypto-defi-yield-hub.netlify.app/#crypto-defi-yield-hub-reddit-20261026-1-2026-10-26</guid>
       <pubDate>Mon, 26 Oct 2026 06:44:33 GMT</pubDate>
       <description>Newly verified community added to Crypto DeFi &amp; Yield Farming Hub: Discussions on modern C++ (C++17/20/23), memory models, template metaprogramming, and graphics pipelines.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: TypeScript Community Discord (Discord)</title>
-      <link>https://discord.gg/typescript</link>
-      <guid isPermaLink="false">https://crypto-defi-yield-hub.netlify.app/#crypto-defi-yield-hub-discord-20261025-1-2026-10-25</guid>
-      <pubDate>Sun, 25 Oct 2026 06:00:37 GMT</pubDate>
-      <description>Newly verified community added to Crypto DeFi &amp; Yield Farming Hub: Active community for advanced TypeScript types, generics, compiler plugins, and framework integrations.</description>
     </item>
   </channel>
 </rss>
